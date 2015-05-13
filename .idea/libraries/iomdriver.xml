@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="iomdriver">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/iomdriver.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/binder.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/orb.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/sasgms.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/sasmqx.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/netutil.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/iomprx.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/idl2java.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/iomjava/iomjava/brgorb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

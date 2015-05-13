@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="sas.core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/SAS/sas.core.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SAS/sas.oma.joma.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SAS/sas.oma.joma.rmt.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SAS/sas.oma.omi.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SAS/sas.oma.util.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SAS/sas.svc.connection.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SAS/sas.svc.connection.platform.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SAS/log4j.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/SAS/sas.security.sspi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
